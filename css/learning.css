@@ -10,7 +10,6 @@ body {
     width: 1280px;
     height: 102px;
     background: url("../imgs/logo.png") no-repeat;
-    /*border:1px solid blue;*/
 }
 .main{
     -webkit-animation: fadeIn .6s ease-in-out ;

@@ -17,7 +17,6 @@ $(document).ready(function () {
     
     
         $(".menu1").hover(function () {
-            // $(".menu1 img:last-child").animate({transform: 'translate(-10px) ', opacity:'.7'},"800");
             $(".menu1").css({cursor:"pointer"});
             $(".menu1 img:last-child").css("margin-left",90);
             $(".menu1 img:last-child").css("margin-top",-95);
